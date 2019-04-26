@@ -1,0 +1,52 @@
+---
+layout: default
+title: Nathan Likes Coffee
+---
+<div class="landing-item">
+    I'm a technical consultant living in Denver, CO.
+    College dropout, coffee enthusiast, pesudeointellectual, wasting time on video games, trying to work on self improvement, and enjoying beer
+	when I can justify it.
+	
+</div>
+
+
+<div class="landing-item">
+    <h3>Currently Reading</h3>
+    <ul>
+        <li>
+        <a href="https://www.amazon.com/Effective-Executive-Definitive-Harperbusiness-Essentials-ebook/dp/B01F1WZGNC">The Effective Executive</a> &raquo; Great book on being effective.
+        </li>
+        <li>
+        <a href="https://www.amazon.com/Oathbringer-Stormlight-Archive-Book-Three-ebook/dp/B010PQAUH6">Oathbringer</a> &raquo Storming lighteyes!; 
+        </li>
+        <li>
+        <a href="https://www.minmaxmeals.com/">The Book on Rental Property Investing</a> &raquo; One day I will be a fithly landlord with a stained wifebeater.
+    </ul>
+    <h3>In Progress Habits</h3>
+    <ul>
+        <li>
+        <a href="">Weekly Fitness Routine</a> &raquo; 1 hour of physical activity a day.
+        </li>
+        <li>
+        <a href="">Daily Coding</a> &raquo; Looking to expand my knowledge of python for personal/career related projects.
+        </li>
+        <li>
+        <a href="">2 Self Improvement Books a Month</a> &raquo; Reading/listening to audio books atleast 30 minutes daily + notes after.
+        </li>
+        <li>
+        <a href="">Limiting time spent playing video games.</a> &raquo; I am a fucking loser wasting all my time playing video games as a competitive outlet.
+        </li>
+    </ul>
+</div>
+
+<div class="landing-item">
+    <h3>Blog</h3>
+    <ul>
+        {% for post in site.posts %}
+        <li>
+        <span class="post-date">{{ post.date | date: "%Y" }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a>
+        </li>
+        {% endfor %}
+    </ul>
+</div>
+
