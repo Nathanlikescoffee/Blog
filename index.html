@@ -44,7 +44,7 @@ title: Nathan Likes Coffee
     <ul>
         {% for post in site.posts %}
         <li>
-        <span class="post-date">{{ post.date | date: "%Y" }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a>
+        <span class="post-date">{{ post.date | date: "%Y" }}</span> &raquo; <a href="Blog/{{ post.url }}">{{ post.title }}</a>
         </li>
         {% endfor %}
     </ul>
