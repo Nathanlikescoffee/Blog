@@ -9,8 +9,8 @@
  <updated>{{ site.time | date_to_xmlschema }}</updated>
  <id></id>
  <author>
-   <name>Name</name>
-   <email></email>
+   <name>Nathan F</name>
+   <email>Nathanlikescoffee@gmail.com</email>
  </author>
 
  {% for post in site.posts %}
