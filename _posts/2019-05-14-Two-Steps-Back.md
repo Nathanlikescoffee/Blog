@@ -22,12 +22,12 @@ My friends passing set me back, reviewing our time together left me empty and qu
 
 Before I found out he passed away, I was struggling to work on some of the habits I wanted to set in on a daily basis.
 
-*Waking up at 6 am
-*Meditating.
-*Programming for 15mins.
-*Getting out of the apartment for a 30 minute walk + Multitasking with some recommened books.
-*Keeping up with chores.
-*Asking myself what needs to be done and setting a todo list.
+* Waking up at 6 am
+* Meditating.
+* Programming for 15mins.
+* Getting out of the apartment for a 30 minute walk + Multitasking with some recommened books.
+* Keeping up with chores.
+* Asking myself what needs to be done and setting a todo list.
 
 I was waking up after 7-8 hours of sleep not motivated to tackle the day and squandered my time on reddit/facebook/youtube.
 The only habit I was able to keep up with was the gym, 1 hour of working out + a 20 minute run seem to be ingrained as a habit. When work is over at 3 I just instantly go to the gym so I guess we can say we turned one healthy activity
