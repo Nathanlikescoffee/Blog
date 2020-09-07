@@ -11,7 +11,7 @@ description: Send help.
 
 This post was supposed to come out last night, but I got distracted by <a href="https://www.youtube.com/watch?v=t34_gdPf4c0">motorcycle limbo.</a>(yes it's as crazy as it sounds)
 I want to use blogging as a way to recap my weeks, work on my writing ability, and provide a creative outlet for my thoughts. 
-Like alot of things I want it's not always what happens or what my brain decides is worth the attention. Sometimes you want to be that successful writer.
+Like a lot of things I want it's not always what happens or what my brain decides is worth the attention. Sometimes you want to be that successful writer.
 Other times you are staying up till 2 am watching motorcycle limbo with no care in the world.
 
 Too recap last week; I started a bunch of new habits. I have previously been on this self-improvement kick before and have tried to change to much just to revert back to old habits.
@@ -24,7 +24,7 @@ that should positively impact me. Below is a list of my current schedule with an
 * 11am to 2pm -> Procrastinate, reddit, fuck around.
 * 2pm to 4pm -> Play video games? Nap? 
 * 4pm to 6pm -> Gym and dinner.
-* 6pm to 11pm -> More video games or time spent with the SO.
+* 6pm to 11pm -> Leisure
 * 11pm to 2am -> More procrastination, reddit, motorcycle limbo.
 
 <h2>Optimized Schedule:</h2>
@@ -37,13 +37,13 @@ that should positively impact me. Below is a list of my current schedule with an
 * 2pm to 3pm -> Gym
 * 3pm to 330pm -> Chores
 * 330pm to 430pm -> Reading
-* 430 to 630pm -> SO time / programming
+* 430 to 630pm -> Programming
 * 630pm to 10pm -> Leisure
 * 10pm to 11pm -> Reading
 
 
 Going from 13 hours of wasted time too 3.5 hours is still a gigantic change and will be done slowly. 
-Part of my effort to achieve this includes a lot of books on focus/effecieny/meeting goals.
+Part of my effort to achieve this includes a lot of books on focus/efficiency/meeting goals.
 In the coming weeks I will keep track of my actual time spent on various activities and post a weekly recap of getting to my desired schedule(weekends are still up in the air).
 
 A quick recap of last week.

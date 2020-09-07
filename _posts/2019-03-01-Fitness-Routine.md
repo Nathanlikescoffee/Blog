@@ -16,7 +16,7 @@ The pull workout hits lats, biceps, and traps, the push workout hits chest, tric
 <H2> Push Workout </H2>
 * Bench Press Machine - 5 sets - 5 reps - 165 lbs.
 * Dumbbell Press - 3 sets - 10 reps - 55lbs dumbbells.
-* Chest Flys - 3 sets - 10 reps - 25lbs each side.
+* Chest Flyes - 3 sets - 10 reps - 25lbs each side.
 * Dumbbell Press - 3 sets - 10 reps - 40lbs dumbbells.
 * Side Raises - 3 sets - 10 reps - 20lb dumbbells.
 * Tricep Pulldown - 3 sets - 10 reps - 65lbs
@@ -25,7 +25,7 @@ The pull workout hits lats, biceps, and traps, the push workout hits chest, tric
 <H2> Pull Workout </H2>
 * Pullups - 3 sets - 5 reps - bodyweight.
 * Lat Pulldowns - 3 sets - 10 reps - 135 lbs.
-* Barbell Rows - 3 sets - 10 reps - 50lb dumbells.
+* Barbell Rows - 3 sets - 10 reps - 50lb dumbbells.
 * Underhand Lat Pulldowns - 3 sets - 10 reps - 100 lbs.
 * Dumbbell curls - 3 sets - 10 reps - 25lbs dumbbells.
 * Hammer curls - 3 sets - 10 reps - 25lbs dumbbells.
@@ -41,5 +41,5 @@ The pull workout hits lats, biceps, and traps, the push workout hits chest, tric
 <H2> Rest Day </H2>
 * 20min jog 6mph.
 
-Every two to three weeks I try and increase each workout by 2.5 - 5 pounds and will be tracking progress via the blog. Abs are done every morning as a part of my morning routine. This workout is great for me but not be great for you, do some
+Every two to three weeks I try and increase each workout by 2.5 - 5 pounds and will be tracking progress via the blog. Abs are done every morning as a part of my morning routine. This workout is great for me but may not be great for you, do some
 research before deciding what fitness routine to follow.
