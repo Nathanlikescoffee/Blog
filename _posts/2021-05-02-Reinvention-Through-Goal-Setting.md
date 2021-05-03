@@ -38,8 +38,8 @@ I am going to be using this first month of may as my test run and the key result
 <h2>May Key Results</h2>
  <h4>Grow Physically: Key Results</h4>
 * 100% of workouts completed (M,T,W,TH,F,S)
-** M-W-F (Weights).
-** T-TH-S (Cardio).
+* M-W-F (Weights).
+* T-TH-S (Cardio).
 
  <h4>Grow Professionally: Key Results</h4>
 * Enroll in college.
@@ -53,11 +53,14 @@ I am going to be using this first month of may as my test run and the key result
 This month is all about doing more and talking less.
 
 Books I plan on reading:
+
 <a href="https://www.amazon.com/Measure-What-Matters-Google-Foundation/dp/0525536221">Measure What Matters - John Doerr</a>
+
 <a href="https://jamesclear.com/">Atomic Habits - James Clear</a>
+
 <a href="https://www.amazon.com/True-North-Discover-Authentic-Leadership/dp/0787987514">Stretch: True North: Discover Your Authentic Leadership</a>
 
-<h2>Future items for the blog:<h2>
+<h2>Future items for the blog:</h2>
 * Update home page with metrics for Objectives and Key Results
 * Update booklist
 * Update layout and style
